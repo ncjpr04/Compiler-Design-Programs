@@ -1,0 +1,19 @@
+# Ignore the output folder where executables are placed
+output/
+
+# Ignore all .exe files (optional if executables might be elsewhere)
+*.exe
+
+# Ignore temporary files and build logs
+*.log
+*.obj
+*.o
+*.tmp
+*.temp
+
+# Ignore VS Code settings (optional)
+.vscode/
+
+# Ignore system files (optional)
+.DS_Store
+Thumbs.db
